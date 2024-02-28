@@ -1,0 +1,39 @@
+#appContainer{
+  margin: 0px;
+  width: 100%;
+  padding: 0px;
+}
+/* Navbar CSS */
+.navbar{
+  background-color: grey;
+}
+#navbar{
+  background-color: grey;
+  margin: 0px;
+  width: 100%;
+  padding: 0px;
+  height: 50px;
+}
+#userNav{
+  float: right;
+  margin: 8px 10px 12.5px auto;
+}
+
+
+/* Footer CSS */
+#footer{
+  position: absolute;
+  background-color:grey;
+  bottom: 0;
+  width: 100%;
+  padding: 0px;
+  height: 50px;
+}
+#githublink{
+  float: right;
+  margin: 8px 10px 12.5px auto;
+}
+#githublogo{
+  height:25px;
+  width: 25px;
+}
